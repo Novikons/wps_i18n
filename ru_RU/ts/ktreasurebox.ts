@@ -6,19 +6,19 @@
     <name>KCommand</name>
     <message>
         <source>Treasure Box</source>
-        <translation type="unfinished">Коробка для сохранения</translation>
+        <translation type="unfinished">Хранилище</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_No</source>
-        <translation type="obsolete">Нет, спасибо.</translation>
+        <translation type="obsolete">Номер строки хранилища</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_Text</source>
-        <translation type="obsolete">Многие люди используют этот инструмент. Вы хотели бы попробовать?</translation>
+        <translation type="obsolete">Текст записи хранилища</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_Title</source>
-        <translation type="obsolete">Kingsoft Office рекомендации</translation>
+        <translation type="obsolete">Заголовок строки хранилища</translation>
     </message>
     <message>
         <source>Treasure_Box_Prompt_Yes</source>
